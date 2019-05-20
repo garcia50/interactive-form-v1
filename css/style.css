@@ -41,6 +41,10 @@ form {
 	background: #85b5ca;
 }
 
+.job {
+	display: block;
+}
+
 fieldset,
 legend,
 button {
